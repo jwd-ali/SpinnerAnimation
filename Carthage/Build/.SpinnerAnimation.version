@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "9a9927b942f4d8dbca799f6d0605ff4dc2033c18",
+  "iOS" : [
+    {
+      "name" : "SpinnerAnimation",
+      "hash" : "10507fccbc50cc376c320f6cc2b6777b3cf3f11dc5a7e134f1a7a464a7301e6e",
+      "swiftToolchainVersion" : "5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+    }
+  ]
+}
